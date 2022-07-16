@@ -1,0 +1,24 @@
+[[package]]
+name = "htmlmin"
+version = "0.1.12"
+description = "An HTML Minifier"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "minify-html"
+version = "0.9.2"
+description = "Extremely fast and smart HTML + JS + CSS minifier"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "f20e3fe0ca990c1b3413e6f1cf0e3cdf4f01438b5cea73e25d3759399f33983f"
+
+[metadata.files]
+htmlmin = []
+minify-html = []
